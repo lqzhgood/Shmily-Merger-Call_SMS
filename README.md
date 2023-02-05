@@ -4,6 +4,15 @@
 
 此工具是将 CallLog 和 SMS 数据文件(`Shmily-Msg` 格式) 合并去重的工具
 
+支持以下库的数据文件
+
+-   [Shmily-Get-Call_SMS-Android](https://github.com/lqzhgood/Shmily-Get-Call_SMS-Android)
+-   [Shmily-Get-Call_SMS-calendar_google_com](https://github.com/lqzhgood/Shmily-Get-Call_SMS-calendar_google_com)
+-   [Shmily-Get-Call_SMS-i_Mi_com](https://github.com/lqzhgood/Shmily-Get-Call_SMS-i_Mi_com)
+-   [Shmily-Get-Call_SMS-ic_qq_com](https://github.com/lqzhgood/Shmily-Get-Call_SMS-ic_qq_com)
+-   [Shmily-Get-Call_SMS-S60v3_MMS](https://github.com/lqzhgood/Shmily-Get-Call_SMS-S60v3_MMS)
+-   [Shmily-Get-Call_SMS-S60v3_SMS](https://github.com/lqzhgood/Shmily-Get-Call_SMS-S60v3_SMS)
+
 这里接收从 GET 中处理的数据，GET 中仅初步去重，排序~这里需要精细化处理。 <br/>
 
 -   去重
