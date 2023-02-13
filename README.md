@@ -94,7 +94,7 @@ ID 生成的算法导致在 _"重要的事情说三遍"_ 事件（相同内容�
 |repo| 路径 | ID | 输入 |备注 |
 |---|---|---|---|---|
 |[Shmily-Get-Call_SMS-Android](https://github.com/lqzhgood/Shmily-Get-Call_SMS-Android)|/AndroidBackup/dist/logs/| 精确 | input ||
-|[Shmily-Get-Call_SMS-calendar_google_com](https://github.com/lqzhgood/Shmily-Get-Call_SMS-calendar_google_com)|/calendar_google_com/callLogs/dist/| 非精确 |input | 使用 `$CallLog.duration` 可得到精确 |
+|[Shmily-Get-Call_SMS-calendar_google_com](https://github.com/lqzhgood/Shmily-Get-Call_SMS-calendar_google_com)|/calendar_google_com/callLogs/dist/| 非精确 |input | 使用 `$CallLog.data.duration` 可得到精确 |
 
 ### SMS
 
@@ -104,3 +104,11 @@ ID 生成的算法导致在 _"重要的事情说三遍"_ 事件（相同内容�
 |[Shmily-Get-Call_SMS-Android](https://github.com/lqzhgood/Shmily-Get-Call_SMS-Android)|/AndroidBackup/dist/sms/| 精确 | input| |
 |[Shmily-Get-Call_SMS-i_Mi_com](https://github.com/lqzhgood/Shmily-Get-Call_SMS-i_Mi_com)|/i_Mi_com/SMS/dist/| 精确 |input |
 |[Shmily-Get-Call_SMS-ic_qq_com](https://github.com/lqzhgood/Shmily-Get-Call_SMS-ic_qq_com)|/ic_qq.com/sms/dist/|非精确|input_diy|
+
+## 感谢
+
+http://lqzhgood.github.io/Shmily/guide/other/thanks.html
+
+## 捐赠
+
+点击链接 http://lqzhgood.github.io/Shmily/guide/other/donation.html 看世界上最可爱的动物
